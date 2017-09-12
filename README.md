@@ -14,7 +14,7 @@ Ce cours est une introduction, il n'est pas nécessaire d'avoir déjà codé. Le
 - [Séance 1](1.md) : lundi 4 septembre
 - [Séance 2](2.md) : lundi 11 septembre
     + Le [code du cours](2_code.py)
-    + Les [exercices à faire](2_exo.py) pour le 18 septembre
+    + Les [exercices à faire](2_exo.md) pour le 18 septembre
 - [Séance 3](3.md) : lundi 18 septembre
 
 __Pas de cours le lundi 25 septembre__
