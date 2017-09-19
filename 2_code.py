@@ -28,7 +28,7 @@ print(variable)
 # les types de valeur
 integer = 725 # un entier
 string = "Hello, World!" # un texte
-float_ = 1.23 # un nombre décimal 
+float_ = 1.23 # un nombre décimal
 booleen = True # un booléen : soit "vrai", soit "faux"
 
 print(integer) # j'affiche la valeur stockée dans la variable "integer"
@@ -97,5 +97,3 @@ if un_entier == 4:
 	print("Ce code s'exécute car la variable un_entier est égale à 4")
 
 print("-----------------------------")
-
-
