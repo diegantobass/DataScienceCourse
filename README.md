@@ -13,10 +13,10 @@ Ce cours est une introduction, il n'est pas nécessaire d'avoir déjà codé. Le
 
 - [Séance 1](1.md) : lundi 4 septembre
 - [Séance 2](2.md) : lundi 11 septembre
-    + Le [code du cours](2_code.py)
+    + Le code du cours à [consulter](https://github.com/diegantobass/DataScienceCourse/blob/master/2_code.py) et à [télécharger](2_code.py)
     + Les [exercices à faire](2_exo.md) pour le 18 septembre
 - [Séance 3](3.md) : lundi 18 septembre \[__SPOILER__ : contient les réponses aux exercices\]
-    + Le [code du cours](3_code.py)
+    + Le code du cours à [consulter](https://github.com/diegantobass/DataScienceCourse/blob/master/3_code.py) et à [télécharger](3_code.py)
     + L'[exercice à faire](3_exo.md) pour le 2 octobre
 
 __Pas de cours le lundi 25 septembre - Cours le 2 octobre en salle 21 au 27 rue Saint-Guillaume__
