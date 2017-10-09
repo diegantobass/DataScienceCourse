@@ -18,5 +18,8 @@ Ce cours est une introduction, il n'est pas nécessaire d'avoir déjà codé. Le
 - [Séance 3](3.md) : lundi 18 septembre \[__SPOILER__ : contient les réponses aux exercices\]
     + Le code du cours à [consulter](https://github.com/diegantobass/DataScienceCourse/blob/master/3_code.py) et à [télécharger](3_code.py)
     + L'[exercice à faire](3_exo.md) pour le 2 octobre
+- [Séance 4](4.md) : lundi 2 octobre
+    + Les données d'exemple disponible [sur le drive](https://drive.google.com/drive/folders/0BxhtDlBjuNCHSTdLNXAzSVVkd3M?usp=sharing)
+- Séance 5 : lundi 9 octobre - travaux dirigés sur les projets personnels
 
-__Pas de cours le lundi 25 septembre - Cours le 2 octobre en salle 21 au 27 rue Saint-Guillaume__
+__Pas de cours le lundi 25 septembre - Cours le 2 octobre en salle 21 au 27 rue Saint-Guillaume__.
