@@ -3,7 +3,7 @@
 - __Durée__ : 12 heures
 - __Enseignant__ : [Diégo Antolinos-Basso](mailto:diego.antolinosbasso@sciencespo.fr)
 - __Pré-requis__ : aucun
-- Délégué : Arnaud Campagne / [arnaud.campagne@sciencespo.fr](mailto:arnaud.campagne@sciencespo.fr)
+- Délégué : [Arnaud Campagne](mailto:arnaud.campagne@sciencespo.fr)
 
 Les possibilités offertes par les langages de programmation tels que Python sont sans limite et coder devient un atout de choix. Le traitement programmatique de données permet d'accelérer le travail de corpus, de rendre intelligible de gros volumes de données et d'en extraire de l'information. Il ne reste qu'à apprendre à coder !
 
@@ -19,7 +19,7 @@ Ce cours est une introduction, il n'est pas nécessaire d'avoir déjà codé. Le
     + Le code du cours à [consulter](https://github.com/diegantobass/DataScienceCourse/blob/master/3_code.py) et à [télécharger](3_code.py)
     + L'[exercice à faire](3_exo.md) pour le 2 octobre
 - [Séance 4](4.md) : lundi 2 octobre
-    + Les données d'exemple disponible [sur le drive](https://drive.google.com/drive/folders/0BxhtDlBjuNCHSTdLNXAzSVVkd3M?usp=sharing)
+    + Les données d'exemple disponible [sur le drive](https://drive.google.com/drive/folders/0BxhtDlBjuNCHSTdLNXAzSVVkd3M?usp=sharing) Sciences Po.
 - Séance 5 : lundi 9 octobre - travaux dirigés sur les projets personnels
 
 __Pas de cours le lundi 25 septembre - Cours le 2 octobre en salle 21 au 27 rue Saint-Guillaume__.
