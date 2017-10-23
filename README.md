@@ -21,5 +21,4 @@ Ce cours est une introduction, il n'est pas nécessaire d'avoir déjà codé. Le
 - [Séance 4](4.md) : lundi 2 octobre
     + Les données d'exemple disponible [sur le drive](https://drive.google.com/drive/folders/0BxhtDlBjuNCHSTdLNXAzSVVkd3M?usp=sharing) Sciences Po.
 - Séance 5 : lundi 9 octobre - travaux dirigés sur les projets personnels
-
-__Pas de cours le lundi 25 septembre - Cours le 2 octobre en salle 21 au 27 rue Saint-Guillaume__.
+- [Séance 6](final.md) : lundi 16 octobre - travaux dirigés sur les projets personnels, rendus.
