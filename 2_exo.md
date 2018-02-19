@@ -14,7 +14,7 @@ Déclarer une variable dont la valeur est le prix TTC auquel vous ajoutez votre 
 Afficher un texte dans le terminal qui annonce le prix du repas
 ~~~
 
-Le rendu sera un script additionsvp_DAB.py (DAB c'est mes initiales, mettez les votre, svp) à m'envoyer par mail. Je réponds aux questions par email.
+Le rendu sera un script additionsvp_DAB.py (DAB c'est mes initiales, mettez les votre, svp) ou un lien vers une page repl.it, à m'envoyer par mail. Je réponds aux questions par email.
 
 ### 2. Pierre papier ciseaux
 Programmez un jeu de chifoumi.
@@ -30,8 +30,12 @@ random.choice(["papier", "pierre", "ciseaux"])
 ~~~
 À l'aide de bloc conditionnels, afficher ensuite le résultat de la "confrontation" entre l'utilisateur et la machine représentée par la fonction random.
 
+Le rendu sera un script chifoumi_DAB.py (DAB c'est mes initiales, mettez les votre, svp) ou un lien vers une page repl.it, à m'envoyer par mail. Je réponds aux questions par email.
+
 ### 3. Freestyle
 Envoyez-moi d'ici à lundi n'importe quel bout de code python que vous aurez écrit. Peu importe ce qu'il fait.
+
+Le rendu sera un script freestyle_DAB.py (DAB c'est mes initiales, mettez les votre, svp) ou un lien vers une page repl.it, à m'envoyer par mail. Je réponds aux questions par email.
 
 __Deux conditions à remplir__ : 
 1. le code doit être commenté, je ne m'amuserai pas à deviner ce qu'il est censé faire.
