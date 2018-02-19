@@ -12,3 +12,6 @@ Dans ce cours nous introduirons les bases de la programmation avec le langage Py
 Ce cours est une introduction, il n'est pas nécessaire d'avoir déjà codé. Les 6 premières heures de cours seront une introduction pratique au langage de programmation Python. Les 6 heures suivantes permettront de découvrir des exemples d'applications de data-science. Une place sera réservée au sein du cours à l'échange, autour des difficultés rencontrées, des besoins, et des applications envisagées.
 
 - [Séance 1](1.md) : lundi 12 février
+- [Séance 2](2.md) : lundi 19 février
+    + [Les exercices](2_exo.md) à faire pour la prochaine séance (n'en choisir qu'un)
+    + [Le code](2_code.py) reprenant les séances 1 et 2
