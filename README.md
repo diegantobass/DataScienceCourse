@@ -3,7 +3,7 @@
 - __Durée__ : 12 heures
 - __Enseignant__ : [Diégo Antolinos-Basso](mailto:diego.antolinosbasso@sciencespo.fr)
 - __Pré-requis__ : aucun
-- Délégué : [Perrine Legoullon](mailto:perrine.legoullon@sciencespo.fr)
+- __Déléguée__ : [Perrine Legoullon](mailto:perrine.legoullon@sciencespo.fr)
 
 Les possibilités offertes par les langages de programmation tels que Python sont sans limite et coder devient un atout de choix. Le traitement programmatique de données permet d'accelérer le travail de corpus, de rendre intelligible de gros volumes de données et d'en extraire de l'information. Il ne reste qu'à apprendre à coder !
 
