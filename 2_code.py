@@ -81,17 +81,45 @@ ces éléments appartiennent à la syntaxe obligatoire de python, ils sont néce
 """
 
 ###
-### Nous avons été jusque là à la séance 1
-###
 
-print("--- toujours plus de conditions avec if ---")
+print("--- toujours plus de conditions ---")
 un_entier = 4 # on déclare une variable avec la valeur 4
+un_booleen = True # on déclare une variable booléenne à True
+
+# voici un bloc de conditions complet if/elif/else
 if un_entier == 4:
-	print("Ce code s'exécute car la variable un_entier est égale à 4")
+	print("Ce code s'exécute si la variable un_entier est égale à 4")
+elif un_entier < 4:
+	print("Ce code s'exécute si la variable un_entier n'est pas égale à 4 et qu'elle est inférieure à 4")
+else:
+	print("Ce code s'exécute si ni la condition if, ni la condition elif n'a été remplie")
+
+# il est possible d'imbriquer des conditions
+if un_entier == 4:
+	print("un_entier est égale à quatre")
+	if un_booleen == True:
+		un_entier = 5
+	# si un entier est égale à 4 et que le booleen est égale à True alors je change un_entier à 5
+elif un_entier == 5:
+	print("un_entier est égale à cinq")
+
+
+# il est aussi possible de construire des conditions complexes
+if (un_entier) == 4 and (un_booleen == True):
+	print("whatever")
+
+"""
+les conditions se combinent avec "and" ou "or", l'évaluation de la valeur de vérité de la condition est
+alors soumise aux mêmes règles qu'en logique mathématiques. Je vous laisse le plaisir de vous confronter
+aux tables de vérités des connecteurs "and" et "or" que vous avez très certainement déjà vu en terminale
+"""
 
 ###
 
 print("--- formater un message à afficher ---")
+integer = 45
+string = "Hello, World!"
+booleen = True
 print("J'ai affiché {} fois {} dans ma vie, c'est {}...".format(integer, string, booleen))
 # dans chacunes des paires d'accolades est injecté l'une des variables de la fonction format() dans l'ordre
 
@@ -107,3 +135,12 @@ print("Tu t'appelles {}.".format(string_input))
 print('{} a affiché {} fois "{}" dans son terminal, c\'est un data-scientist.'.format(string_input, integer, variable)) # notez l'utilisation des guillemets
 
 ###
+
+# Il est possible de combiner les conditions, l'input() et la fonction format() pour créer le petit programme suivant
+
+fav_dish = input("Quel est votre plat préféré ?")
+if fav_dish == "le poulet" or fav_dish == "la volaille":
+	print("{} est une viande maigre")
+else:
+	print("Je ne connais pas {}, désolé.")
+
