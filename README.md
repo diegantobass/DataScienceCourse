@@ -15,3 +15,7 @@ Ce cours est une introduction, il n'est pas nécessaire d'avoir déjà codé. Le
 - [Séance 2](2.md) : lundi 19 février
     + [Les exercices](2_exo.md) à faire pour la prochaine séance (n'en choisir qu'un)
     + Le code des séances 1 et 2 à [consulter](https://github.com/diegantobass/DataScienceCourse/blob/master/2_code.py) et à [télécharger](2_code.py)
+- [Séance 3](3.md) : lundi 5 mars
+    + todo : ajouter le code de la séance
+- [Séance 4](4.md) : lundi 12 mars
+    + Les données d'exemples sont disponibles [sur le drive du cours](https://drive.google.com/drive/folders/0BxhtDlBjuNCHSTdLNXAzSVVkd3M?usp=sharing)
