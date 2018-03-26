@@ -19,3 +19,4 @@ Ce cours est une introduction, il n'est pas nécessaire d'avoir déjà codé. Le
     + todo : ajouter le code de la séance
 - [Séance 4](4.md) : lundi 12 mars
     + Les données d'exemples sont disponibles [sur le drive du cours](https://drive.google.com/drive/folders/0BxhtDlBjuNCHSTdLNXAzSVVkd3M?usp=sharing)
+- [Séance 6](exercices_final.md) : lundi 26 mars
